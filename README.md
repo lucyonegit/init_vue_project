@@ -1,4 +1,4 @@
-# ico 运营后台管理系统
+# vue+vuex+vue router项目初始化
 
 > demo
 
